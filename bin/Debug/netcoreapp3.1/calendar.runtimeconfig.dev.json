@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\GGSwiftPro\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\GGSwiftPro\\.nuget\\packages"
+    ]
+  }
+}
