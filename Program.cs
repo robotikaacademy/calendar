@@ -6,7 +6,8 @@ namespace calendar
     {
         static void Main(string[] args)
         {
-            Display dispaly = new Display();
+            //Display dispaly = new Display();
+            System.Console.WriteLine("zdr");
         }
     }
 }

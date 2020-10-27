@@ -5002,19 +5002,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\GGSwiftPro\\.nuget\\packages\\": {}
+    "C:\\Users\\User\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\calendar\\calendar.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\Calendar Project\\calendar\\calendar.csproj",
       "projectName": "calendar",
-      "projectPath": "E:\\calendar\\calendar.csproj",
-      "packagesPath": "C:\\Users\\GGSwiftPro\\.nuget\\packages\\",
-      "outputPath": "E:\\calendar\\obj\\",
+      "projectPath": "C:\\Users\\User\\Desktop\\Calendar Project\\calendar\\calendar.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\Calendar Project\\calendar\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\GGSwiftPro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5074,7 +5074,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
       }
     }
   }
